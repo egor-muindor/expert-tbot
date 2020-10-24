@@ -3,8 +3,10 @@ from aiogram import executor
 from os import getenv
 import logging as log
 
-from config import app, database
+from config import *
 from handlers import *
+
+__all__ = ['app', 'default_handler']
 
 
 async def on_shutdown(callback):
