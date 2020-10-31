@@ -1,0 +1,1 @@
+CREATE SCHEMA `expert_bot` DEFAULT CHARACTER SET utf8mb4 ;

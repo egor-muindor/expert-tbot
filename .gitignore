@@ -1,12 +1,1 @@
-# IntelliJ project files
 .idea
-
-__pycache__/
-*.py[cod]
-*$py.class
-__pypackages__/
-
-# Environments
-.env
-venv/
-orator.yaml
